@@ -5,12 +5,13 @@
 }
 
 body {
-    background-color: rgb(238, 229, 238);
+    background-color: rgb(190, 228, 200);
 }
 
 .head {
+    background-color: white;
     max-width: 480px;
-    border: 10px solid #a6a6a6;
+    border: 10px solid green;
     margin: auto;
     height: 150px;
     display: flex;
@@ -18,7 +19,7 @@ body {
     align-items: center;
     flex-direction: column;
     margin-top: 100px;
-    color: #333333;
+    color: black;
 }
 
 .head h4{
@@ -63,7 +64,7 @@ body {
 }
   
 .back {
-    background-color: #333;
+    background-color: rgb(145, 170, 137);
   }
 
 img {
